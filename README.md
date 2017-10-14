@@ -3,9 +3,8 @@
 # 用asyncio实现的一个简单的socks5服务器，仅供参考
 
 ## 支持协议
-
-	- [x] TCP
-	- [x] UDP
+- [x] TCP
+- [x] UDP
 	
 ## 支持用户名密码验证
 ## 支持uvloop
